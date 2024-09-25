@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Spotify DJ that gives music reccomendations
+- 🌱 I’m currently learning introductory data structures and algorithms
+- 📫 How to reach me: tylerarc@umich.edu
+
+
+ 
+  
+
 <!--
 **Tyler-Arciniaga/Tyler-Arciniaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
