@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Spotify DJ that gives music reccomendations<br>🌱 I’m currently learning introductory data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
+🔭 I’m currently working on a Spotify Song Discovery bot that gives users recommendations based on their own preferences and prompts<br>🌱 I’m currently learning introductory data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
 
 
 ## 🌐 Socials:
