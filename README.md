@@ -1,4 +1,6 @@
 # 💫 About Me:
+I'm a University of Michigan computer engineering student. I'm skilled in programing languages Python and C++, as well as circuitry and development boards, namely Arduino and ESP32. I excel in project management and team collaboration, combining creativity and critical thinking in my everyday work.
+
 🔭 I’m currently working on a Spotify Song Discovery bot that gives users recommendations based on their own preferences and prompts<br>🌱 I’m currently learning data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
 
 
