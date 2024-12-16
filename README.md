@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm a University of Michigan computer engineering student. I'm skilled in programing languages Python and C++, as well as circuitry and development boards, namely Arduino and ESP32. I excel in project management and team collaboration, combining creativity and critical thinking in my everyday work.
+I'm a Computer Engineering student at the University of Michigan with a passion for software development. I have experience in programming languages such as Python, C++, HTML, and CSS, and am proficient in frameworks like React.js. My goal is to build a career as a Full Stack Engineer, where I can leverage both my technical skills and creativity to solve complex problems. I thrive in collaborative environments, bringing strong project management skills and a balance of critical thinking and innovation to every project I work on.
 
-🔭 I’m currently working on a spotify song discovery bot that gives users recommendations based on their favorite artist<br>🌱 I’m currently learning data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
+🔭 Currently, I am working on a user friendly web app, allowing users to get customized recipes based on inputted ingredients <br>🌱 I’m studying data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
 
 
 ## 🌐 Socials:
