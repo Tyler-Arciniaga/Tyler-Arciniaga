@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a Computer Engineering student at the University of Michigan with a passion for software development. I have experience in programming languages such as Python, C++, HTML, and CSS, and am proficient in frameworks like React.js. My goal is to build a career as a Full Stack Engineer, where I can leverage both my technical skills and creativity to solve complex problems. I thrive in collaborative environments, bringing strong project management skills and a balance of critical thinking and innovation to every project I work on.
 <br>
-<br>🔭 Currently, I am working on a chrome browser extension which helps users easily log and track LeetCode progress<br>🌱 I’m studying data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
+<br>🔭 Currently, I am working on a music based social media app<br>🌱 I’m studying data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyler-arciniaga) 
