@@ -1,7 +1,20 @@
-# 💫 About Me:
-I'm a Computer Engineering student at the University of Michigan with a passion for software development. I have experience in programming languages such as Python, C++, HTML, and CSS, and am proficient in frameworks like React.js. My goal is to build a career as a Full Stack Engineer, where I can leverage both my technical skills and creativity to solve complex problems. I thrive in collaborative environments, bringing strong project management skills and a balance of critical thinking and innovation to every project I work on.
+# Hi there! I'm Tyler 👋
+I'm a Computer Engineering sophomore at the University of Michigan, passionate about full-stack software development. Currently working towards a BSE in Computer Engineering, I am always looking to learn new technologies and build impactful, user-centric applications. Having built a strong foundation in C++, Python, and JavaScript, I've had the opportunity to work on a variety of projects that involve React, Node.js, and other modern web development technologies.
 <br>
-<br>🔭 Currently, I am working on a music based social media app<br>🌱 I’m studying data structures and algorithms<br>📫 How to reach me: tylerarc@umich.edu
+## 💼 Some Recent Projects
+
+- **[VibeCheck](https://github.com/Tyler-Arciniaga/VibeCheck):** A music-sharing app developed with TypeScript, React Native, and Supabase. It encourages spontaneous social interaction by allowing users to share a song per day, driving engagement through real-time notifications.
+  
+- **[LeetLogger](https://github.com/Tyler-Arciniaga/LeetCode-Tracker-Extension):** Chrome extension that logs and tracks key details from LeetCode problem pages, saving time for developers by automating data entry and improving problem-solving tracking.
+
+- **[Spice AI](https://github.com/Tyler-Arciniaga/Spice_AI):** Recipe recommendation app using React and the Anthropic SDK Claude API, which enhances personalized recipe suggestions by processing large ingredient datasets.
+
+## 🤝 Teamwork & Growth
+
+I’m an **analytical team player** who thrives in collaborative environments. Whether it’s through hackathons, academic projects, or personal ventures, I love working alongside others to tackle challenging problems. I'm always eager to learn new technologies, improve my skills, and contribute to meaningful projects. My passion for software engineering drives me to stay up-to-date with the latest trends and continuously expand my toolkit.
+
+Feel free to connect with me and check out my projects! 😄
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyler-arciniaga) 
