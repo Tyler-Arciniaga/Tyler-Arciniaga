@@ -3,7 +3,7 @@ I'm a Computer Engineering sophomore at the University of Michigan, passionate a
 <br>
 ## 💼 Some Recent Projects
 
-- **[VibeCheck](https://github.com/Tyler-Arciniaga/VibeCheck):** A music-sharing app developed with TypeScript, React Native, and Supabase. It encourages spontaneous social interaction by allowing users to share a song per day, driving engagement through real-time notifications.
+- **[VibeCheck](https://github.com/Tyler-Arciniaga/VibeCheck):** A music-sharing social media app developed with TypeScript, React Native, and Supabase. It encourages spontaneous social interaction by allowing users to share a song per day, driving engagement through real-time notifications.
   
 - **[LeetLogger](https://github.com/Tyler-Arciniaga/LeetCode-Tracker-Extension):** Chrome extension that logs and tracks key details from LeetCode problem pages, saving time for developers by automating data entry and improving problem-solving tracking.
 
