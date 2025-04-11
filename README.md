@@ -5,7 +5,7 @@ I'm a Computer Engineering sophomore at the University of Michigan, passionate a
 
 - **[VibeCheck](https://github.com/Tyler-Arciniaga/VibeCheck):** A music-sharing social media app developed with TypeScript, React Native, and Supabase. It encourages spontaneous social interaction by allowing users to share a song per day, driving engagement through real-time notifications.
 
-- **[ineed.io](https://ineedio.vercel.app/):** A gamified web app that helps students track, manage, and compete in internship applications, with alerts, social sharing, and progress tracking for accountability. Made with TypeScript, Next.js and Supabase.
+- **[ineed.io](https://ineedio.vercel.app/):** Collaborating with a team through the Michigan Hackers organization to build ineed.io, a gamified web app that helps students track, manage, and compete in internship applications. The platform includes alerts, social sharing, and progress tracking for accountability. Built with TypeScript, Next.js, and Supabase.
   
 - **[LeetLogger](https://github.com/Tyler-Arciniaga/LeetCode-Tracker-Extension):** Chrome extension that logs and tracks key details from LeetCode problem pages, saving time for developers by automating data entry and improving problem-solving tracking.
 
