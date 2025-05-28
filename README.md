@@ -7,9 +7,9 @@ I'm a Computer Engineering sophomore at the University of Michigan, passionate a
 
 - **[ineed.io](https://ineedio.vercel.app/):** Collaborating with a team through the Michigan Hackers organization to build ineed.io, a gamified web app that helps students track, manage, and compete in internship applications. The platform includes alerts, social sharing, and progress tracking for accountability. Built with TypeScript, Next.js, and Supabase.
   
+- **[DevLog CLI](https://github.com/Tyler-Arciniaga/DevLog)** A Go-powered CLI tool for tracking development notes and debug tasks. Emphasizes idiomatic Go with structured data via structs, interface-based abstraction, and local file I/O. Built with Cobra for a clean, intuitive terminal UX.
+  
 - **[LeetLogger](https://github.com/Tyler-Arciniaga/LeetCode-Tracker-Extension):** Chrome extension that logs and tracks key details from LeetCode problem pages, saving time for developers by automating data entry and improving problem-solving tracking.
-
-- **[Spice AI](https://github.com/Tyler-Arciniaga/Spice_AI):** Recipe recommendation app using React and the Anthropic SDK Claude API, which enhances personalized recipe suggestions by processing large ingredient datasets.
 
 ## 🤝 Teamwork & Growth
 
