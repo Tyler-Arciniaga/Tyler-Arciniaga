@@ -1,5 +1,5 @@
 # Hi there! I'm Tyler 👋
-I'm a Computer Engineering sophomore at the University of Michigan, passionate about full-stack software development. Currently working towards a BSE in Computer Engineering, I am always looking to learn new technologies and build impactful, user-centric applications. Having built a strong foundation in C++, Python, and JavaScript, I've had the opportunity to work on a variety of projects that involve React, Node.js, and other modern web development technologies.
+I'm a Computer Science student at NYU with a strong interest in backend and full-stack development. I’ve worked with languages like Go, JavaScript, Python, and C++, and enjoy building scalable systems and learning how things work under the hood. Whether it’s designing APIs or exploring new tools, I’m always excited to grow as a developer and take on meaningful projects.
 <br>
 ## 💼 Some Recent Projects
 
