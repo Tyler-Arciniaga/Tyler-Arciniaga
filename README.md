@@ -1,5 +1,5 @@
 # Hi there! I'm Tyler 👋
-CS @ NYU. I enjoy building and learning about scalable systems, with a focus on backend, infra, and concurrency.
+CS @ NYU. I enjoy building and learning about distributed systems, with a focus on infra and scalability.
 <br>
 
 
